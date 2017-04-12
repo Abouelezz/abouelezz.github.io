@@ -1,6 +1,6 @@
 title: Ahmed Abouelezz 
 email: abouelezz@gmx.de
-description: > This is Ahmed Abouelezz, I am software engineer living in Berlin, Germany. I am sharing here some general thoughts about programming and web development from my own prospective.
+description: "This is Ahmed Abouelezz, I am software engineer living in Berlin, Germany. I am sharing here some general thoughts about programming and web development from my own prospective."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
